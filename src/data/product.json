@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Khatori",
+        "price": 5.0,
+        "description": "Spicy and crunchy wheat snacks shaped like tiny hats. A perfect treat for a quick snack.",
+        "image": "khatori.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aam Pachan",
+        "price": 15.0,
+        "description": "Tangy and spicy mango flavored candies. Reminisce the childhood memories with every bite.",
+        "image": "aam_pachan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Peppy",
+        "price": 10.0,
+        "description": "Cheese flavored balls that melt in your mouth. A favorite among kids and adults alike.",
+        "image": "peppy.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rola Cola",
+        "price": 5.0,
+        "description": "Cola flavored candy that gives you the refreshing taste of cola with every chew.",
+        "image": "rola_cola.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phantom Sweet Cigarettes",
+        "price": 10.0,
+        "description": "Sugar sticks shaped like cigarettes. A fun treat that brings back the nostalgia of the good old days.",
+        "image": "phantom_sweet_cigarettes.jpg"
+    }
+]

@@ -1,0 +1,49 @@
+/* Basic styling for the footer */
+.footer {
+    background-color: #333; /* Dark background to contrast with the page */
+    color: #fff; /* Light text color for readability */
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Styling for footer links */
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  .footer-links li {
+    display: inline;
+    margin: 0 1rem;
+  }
+  
+  .footer-links a {
+    color: #ff6f61; /* Nostalgic orange color */
+    text-decoration: none;
+  }
+  
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Styling for social media links */
+  .footer-social {
+    margin-top: 1rem;
+  }
+  
+  .footer-social a {
+    color: #fff;
+    margin: 0 0.5rem;
+    text-decoration: none;
+  }
+  
+  .footer-social a:hover {
+    color: #ff6f61; /* Change color on hover */
+  }
+  

@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Khatori",
+        "price": 5.0,
+        "description": "Spicy and crunchy wheat snacks shaped like tiny hats. A perfect treat for a quick snack.",
+        "image": "khatori.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aam Pachan",
+        "price": 15.0,
+        "description": "Tangy and spicy mango flavored candies. Reminisce the childhood memories with every bite.",
+        "image": "aam_pachan.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Peppy",
+        "price": 10.0,
+        "description": "Cheese flavored balls that melt in your mouth. A favorite among kids and adults alike.",
+        "image": "peppy.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Rola Cola",
+        "price": 5.0,
+        "description": "Cola flavored candy that gives you the refreshing taste of cola with every chew.",
+        "image": "rola_cola.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phantom Sweet Cigarettes",
+        "price": 10.0,
+        "description": "Sugar sticks shaped like cigarettes. A fun treat that brings back the nostalgia of the good old days.",
+        "image": "phantom_sweet_cigarettes.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Chapat",
+        "price": 5.0,
+        "description": "Step back in time with Chapat, a beloved 90's candy that captures the essence of childhood nostalgia.",
+        "image": "chapat.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Borkut",
+        "price": 10.0,
+        "description": "Indulge in the timeless taste of Borkut, a cherished treat from the past made from dried bor. ",
+        "image": "borkut.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kopiko",
+        "price": 10.0,
+        "description": "Experience the irresistible taste of Kopiko, the candy that brings the bold flavor of coffee into a delightful treat.",
+        "image": "kopiko.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Aam Papad",
+        "price": 10.0,
+        "description": "Discover the sweet and tangy flavor of Aam Papad, which  offers a delightful combination of mango's natural sweetness and a hint of tanginess.",
+        "image": "aam_papad.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Fatafat",
+        "price": 10.0,
+        "description": "Savor the delightful crunch and sweetness of Fatfat,which combines a crunchy texture with a burst of tangy and sweet flavors, that's both satisfying and memorable",
+        "image": "fatafat.jpg"
+    }
+    ,
+    {
+        "id": 11,
+        "name": "Anardana Goli",
+        "price": 10.0,
+        "description": "Experience a trip down memory lane with our Anardana Goli, a classic treat cherished by generations. Made from the seeds of fresh pomegranates, this tangy and sweet confection is a delightful blend of traditional flavors and nostalgia.", 
+         "image": "anardana.jpg"
+    }
+]

@@ -1,0 +1,92 @@
+/* src/components/ProductList.css */
+
+.product-list {
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(to right, #ffafbd, #ffc3a0);
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    font-size: 46px;
+    font-weight: bold;
+    color: #171414;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, #292726, #e9b2cb);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .heading hr {
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid #111010;
+  }
+  
+  .products {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .product {
+    background-color: #fff; /* Set background to white */
+    border: 1px solid #ddd; /* Add border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    margin: 15px;
+    padding: 10px; /* Add padding */
+    width: 200px; /* Adjust width as needed */
+    text-align: center;
+    transition: transform 0.2s ease; /* Add a hover effect */
+    text-decoration: none;
+  }
+  .product link{
+    text-decoration: none;
+  }
+  
+  .product img {
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    object-fit: cover; /* Ensure the image covers the area */
+    border-radius: 8px 8px 0 0; /* Match border radius */
+  }
+  
+  .product h3 {
+    font-size: 1.2rem;
+    color: #333; /* Change color to black */
+    margin: 10px 0;
+  }
+  
+  .product p {
+    font-size: 1rem;
+    color: #666; /* Darker text color */
+    margin: 5px 0;
+  }
+  
+  .product button {
+    background-color: #ff6f61; /* Button color */
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .product button:hover {
+    background-color: #ff3d2e; /* Darker button color on hover */
+  }
+  
+  .product:hover {
+    transform: scale(1.05); /* Slightly increase size on hover */
+  }

@@ -1,0 +1,24 @@
+// src/data/products.js
+
+const products = [
+  {
+    id: 1,
+    name: 'Khatori',
+    description: 'Crunchy snack with a tangy twist',
+    price: 10,
+    image: 'khatori.jpg',
+    category: 'Snacks',
+    stockQuantity: 50,
+  },
+  {
+    id: 2,
+    name: 'Aam Pachan',
+    description: 'Sweet and sour raw mango candy',
+    price: 15,
+    image: 'aam_pachan.jpg',
+    category: 'Candy',
+    stockQuantity: 30,
+  },
+];
+
+export default products;

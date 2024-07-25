@@ -1,0 +1,68 @@
+.about-us {
+    padding: 2rem;
+    background-color: #f9f9f9;
+  }
+  
+  .brand-story {
+    margin-bottom: 2rem;
+  }
+  
+  .brand-story h2 {
+        font-size: 46px;
+        font-weight: bold;
+        color: #171414;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(45deg, #292726, #e9b2cb);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      
+  }
+  .brand-story hr {
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid #111010;
+  }
+  
+  
+  .brand-story p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  .team {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .team-member {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    text-align: center;
+    flex: 1 1 300px;
+  }
+  
+  .team-member img {
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    margin-bottom: 1rem;
+  }
+  
+  .team-member h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .team-member p {
+    font-size: 1rem;
+    color: #555;
+  }
+  
