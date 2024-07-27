@@ -13,6 +13,8 @@ const AboutUs = () => {
         <p>
           We are committed to quality, authenticity, and the timeless taste of childhood. Every product we offer is crafted with love, ensuring that each treat delivers a genuine taste of yesteryear. Join us as we celebrate the past and create new memories with every delicious bite.
         </p>
+
+        <p> ENJOY THE TASTE OF YOUR CHILDHOOD!</p>
       </div>
 
     </section>

@@ -1,6 +1,8 @@
 .about-us {
     padding: 2rem;
     background-color: #f9f9f9;
+    background: linear-gradient(135deg, rgba(251, 251, 251, 0.814), rgba(255, 195, 160, 0.5)), 
+    url('../../images/about_bg.jpg') no-repeat center center;
   }
   
   .brand-story {
@@ -8,7 +10,7 @@
   }
   
   .brand-story h2 {
-        font-size: 46px;
+        font-size: 50px;
         font-weight: bold;
         color: #171414;
         text-transform: uppercase;
@@ -28,7 +30,7 @@
   
   
   .brand-story p {
-    font-size: 1.1rem;
+    font-size: 30px;
     line-height: 1.6;
     color: #555;
   }
